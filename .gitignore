@@ -1,0 +1,16 @@
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos temporários do Streamlit (se gerados)
+.streamlit/
